@@ -1,1 +1,1 @@
-# falax
+# TicTacToe Minimax
